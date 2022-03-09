@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
 
-* [Getting Starged](./)
-
-* [Demo](./Demo/index)
+* [Home](./)
+* [Getting Started](./getting-started.md)
+* [Demo](./demo)
